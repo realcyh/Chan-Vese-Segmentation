@@ -1,1 +1,1 @@
-# chan-vese-segmentation
+implementation of chan-vese algorithm
